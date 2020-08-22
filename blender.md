@@ -9,3 +9,19 @@ These are some good tutorials for learning Blender...
 ## Rendering ##
 
 * [Queing Renders in Blender (Windows)](https://www.youtube.com/watch?v=WBaFvhPhIZw)
+Annoying voice and ghetto hack but useful...
+
+## Transparency ##
+* [How to make realistic translucent curtains in Blender (shading nodes)](https://www.youtube.com/watch?v=UDx8K-rbt_E)
+
+
+## Volumetrics ##
+
+* [Create Projectors Fast](https://www.youtube.com/watch?v=adahnQCqmw0)
+This dude might look like a meme but it's solid info here.
+
+* [How To Add Fog & God Rays in Blender (EASY Volumetrics)](https://www.youtube.com/watch?v=jYym08606mw)
+
+* [Volumetric Lighting in Blender](https://www.youtube.com/watch?v=AXjE-t6dFZ8)
+
+
