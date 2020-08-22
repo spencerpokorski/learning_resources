@@ -13,6 +13,8 @@ This one simplifies the projector hacks
 
 * [How to recreate mograph tools in Blender using Animation Nodes](https://lesterbanks.com/2020/02/how-to-recreate-mograph-tools-in-blender-with-animation-nodes/) or, direct via [YouTube](https://www.youtube.com/watch?v=0TVGnTiYhwQ)
 
+* [Blender Motion Graphics - 5 Easy Effects in 15 Minutes [Tutorial]](https://m.youtube.com/watch?v=AONniAlLjLg)
+
 ### Rendering ###
 
 * [Queing Renders in Blender (Windows)](https://www.youtube.com/watch?v=WBaFvhPhIZw)
