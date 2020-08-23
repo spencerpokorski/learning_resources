@@ -1,7 +1,9 @@
 # Blender #
 
 ## Manual Page Selects ##
+* [Compositing](https://docs.blender.org/manual/en/latest/compositing/index.html)
 * [Denoising](https://docs.blender.org/manual/en/latest/render/layers/denoising.html)
+* [Shader Nodes](https://docs.blender.org/manual/en/latest/render/shader_nodes/index.html)
 
 ## Plug-Ins ##
 * [Projectors](https://github.com/Ocupe/Projectors)
