@@ -20,6 +20,8 @@ This one simplifies the projector hacks
 * [Queing Renders in Blender (Windows)](https://www.youtube.com/watch?v=WBaFvhPhIZw)
 Annoying voice and ghetto hack but useful...
 
+* [18 Ways to Speed Up Blender Cycles Rendering](https://www.youtube.com/watch?v=8gSyEpt4-60)
+
 ### Transparency ###
 * [How to make realistic translucent curtains in Blender (shading nodes)](https://www.youtube.com/watch?v=UDx8K-rbt_E)
 
