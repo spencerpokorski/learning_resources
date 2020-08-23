@@ -9,7 +9,9 @@
 * [Projectors](https://github.com/Ocupe/Projectors)
 This one simplifies the projector hacks
 
+### Animation Nodes ###
 * [Animation Nodes](https://github.com/JacquesLucke/animation_nodes)
+* [(Reference Docs)](https://docs.animation-nodes.com/documentation/introduction/)
 
 
 ## Tutorials (Video) ##
