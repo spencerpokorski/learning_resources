@@ -1,5 +1,8 @@
 # Blender #
 
+## Manual Page Selects ##
+* [Denoising](https://docs.blender.org/manual/en/latest/render/layers/denoising.html)
+
 ## Plug-Ins ##
 * [Projectors](https://github.com/Ocupe/Projectors)
 This one simplifies the projector hacks
