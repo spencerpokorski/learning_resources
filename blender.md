@@ -42,4 +42,8 @@ This dude might look like a meme but it's solid info here.
 
 * [Volumetric Lighting in Blender](https://www.youtube.com/watch?v=AXjE-t6dFZ8)
 
+## Forum Tips ##
+
+* [How to add texture to one side of surfacee](https://blender.stackexchange.com/questions/36401/how-do-i-add-material-textures-to-only-one-face-of-an-object)
+
 
